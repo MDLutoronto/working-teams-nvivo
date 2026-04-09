@@ -1,11 +1,10 @@
 ---
-title: "Working in Teams Using NVivo"
-layout: "home"
-description: ""
-permalink: "/"  #! Remove this if not the homepage
+title: Working in Teams Using NVivo | Map and Data Library
+layout: home
+description: 
 ---
 
-# Working in Teams Using NVivo
+# Working in Teams Using NVivo | Map and Data Library
 
 This page provides an overview and tips for working as a team using NVivo. There are three main options: the manual way, the old collaboration cloud, and the new collaboration cloud. There is also [NVivo Collaboration Server](https://community.lumivero.com/s/article/TRC-Using-NVivo-with-NVivo-Collaboration-Server?language=en_US), but that involves purchasing, setting up, and maintaining NVivo Server software, and it only works in a Windows environment with NVivo 12 or 13\.
 
