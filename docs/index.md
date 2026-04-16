@@ -1,5 +1,5 @@
 ---
-title: Working in Teams Using NVivo | Map and Data Library
+title: Working in Teams Using NVivo 
 layout: home
 description: "This page provides an overview and tips for working as a team using NVivo. There are three main options: the manual way, the old collaboration cloud, and the new collaboration cloud. There is also NVivo Collaboration Server, but that involves purchasing, setting up, and maintaining NVivo Server software, and it only works in a Windows environment with NVivo 12 or 13."
 created_date: 2023-01-27
@@ -11,7 +11,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
-# Working in Teams Using NVivo | Map and Data Library
+# Working in Teams Using NVivo 
 
 This page provides an overview and tips for working as a team using NVivo. There are three main options: the manual way, the old collaboration cloud, and the new collaboration cloud. There is also [NVivo Collaboration Server](https://community.lumivero.com/s/article/TRC-Using-NVivo-with-NVivo-Collaboration-Server?language=en_US), but that involves purchasing, setting up, and maintaining NVivo Server software, and it only works in a Windows environment with NVivo 12 or 13.
 
@@ -64,3 +64,5 @@ You might want to combine the approaches, if you can – run the coding comparis
 * [Delve's Guide to Intercoder Reliability](https://delvetool.com/blog/intercoder)
 
 Also, visit our [Getting Started](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) page for more information, tutorials, and workshops on NVivo!
+
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
