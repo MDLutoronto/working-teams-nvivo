@@ -11,6 +11,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 0
 has_children: true
+has_toc: false
 ---
 # Working in Teams Using NVivo 
 

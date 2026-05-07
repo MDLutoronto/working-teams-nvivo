@@ -1,6 +1,13 @@
 ---
 title: Additional Resources
 parent: Working in Teams Using NVivo 
+created_date: 2023-01-27
+staff: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 4
 layout: default
 ---
@@ -11,6 +18,6 @@ layout: default
 * [Delve's Guide to Collaborative Qualitative Analysis](https://delvetool.com/blog/collaborative-qualitative-analysis)
 * [Delve's Guide to Intercoder Reliability](https://delvetool.com/blog/intercoder)
 
-Also, visit our [Getting Started](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) page for more information, tutorials, and workshops on NVivo!
+Also, visit our [Getting Started](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) page for more information, tutorials, and workshops on NVivo!
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
