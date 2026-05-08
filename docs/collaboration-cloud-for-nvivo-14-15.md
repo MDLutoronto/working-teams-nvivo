@@ -1,6 +1,13 @@
 ---
 title: Collaboration Cloud for NVivo 14 & 15
 parent: Working in Teams Using NVivo 
+created_date: 2023-01-27
+staff: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 3
 layout: default
 ---

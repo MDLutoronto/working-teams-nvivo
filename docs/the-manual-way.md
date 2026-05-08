@@ -1,6 +1,13 @@
 ---
 title: The Manual Way
 parent: Working in Teams Using NVivo 
+created_date: 2023-01-27
+staff: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 nav_order: 1
 layout: default
 ---
@@ -27,5 +34,6 @@ You might want to combine the approaches, if you can – run the coding comparis
 * *Communication:* Team members should meet often to discuss the coding, how the project is going, themes emerging, etc. You can also use memos in NVivo to record thoughts about the project and share thoughts with others.
 * *Local Files:* [Lumivero](https://lumivero.com/) (the company that makes NVivo) recommends that ideally you work off a copy of your project file stored locally on your computer instead of working off a file stored on a network drive, external drive, or cloud storage service. If the project file isn’t local, there is a potential that it could get corrupted. Another reason to have lots of backups! Consult NVivo’s help pages for more information on saving project files for [Windows](https://help-nv.qsrinternational.com/12/win/v12.1.112-d3ea61/Content/projects-teamwork/save-and-copy-projects.htm) or [Mac](https://help-nv.qsrinternational.com/12/mac/v12.1.112-d3ea61/Content/projects-teamwork/save-and-copy-projects.htm).
 * *Test Merge/Pilot:* First try doing a small amount of coding on one or two files, and then do a merge back into the master project file. This gives you an opportunity to try out the full merging process and look at the options for comparing multiple coders’ work before getting too deep into the project. Also, you might want to try a pilot, where team members do a full code of one or two documents, and then meet to discuss the results/challenges, etc. before tackling the full project.
+
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
