@@ -18,6 +18,6 @@ NVivo 13 Collaboration Cloud (also called Collaboration Cloud (legacy)) does not
 
 See NVivo’s Collaboration Cloud pages for [Windows](https://help-nv.qsrinternational.com/20/win/Content/projects-teamwork/nvivo-collaboration.htm) or [MacOS](https://help-nv.qsrinternational.com/20/mac/Content/projects-teamwork/nvivo-collaboration.htm) for more information. 
 
-*Note: That when considering cloud solutions for your research, there may be research ethics considerations, such as what access does Lumivero have to your data and where is your data being stored. Read the terms and conditions carefully before proceeding.*
+*Note: When considering cloud solutions for your research, there may be research ethics considerations, such as what access does Lumivero have to your data and where is your data being stored. Read the terms and conditions carefully before proceeding.*
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

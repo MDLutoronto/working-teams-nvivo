@@ -17,6 +17,6 @@ Collaboration Cloud for NVivo 15 provides real-time collaboration on an NVivo pr
 
 See NVivo’s Collaboration Cloud pages for [Windows](https://help-nv.qsrinternational.com/15/win/Content/projects-teamwork/nvivo15-collaboration.htm) or [MacOS](https://help-nv.qsrinternational.com/15/mac/Content/projects-teamwork/nvivo15-collaboration.htm) for more information. 
 
-*Note: That when considering cloud solutions for your research, there may be research ethics considerations, such as what access does Lumivero have to your data and where is your data being stored. Read the terms and conditions carefully before proceeding.*
+*Note: When considering cloud solutions for your research, there may be research ethics considerations, such as what access does Lumivero have to your data and where is your data being stored. Read the terms and conditions carefully before proceeding.*
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
