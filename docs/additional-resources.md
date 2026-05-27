@@ -15,9 +15,10 @@ layout: default
 
 
 * [NVivo's Strategies for Teamwork](https://help-nv.qsrinternational.com/15/win/Content/concepts-strategies/strategies-for-teamwork.htm)
+* [Alfasoft's How to work in a team in NVivo](https://support.alfasoft.com/hc/en-us/articles/360006602998-How-to-work-in-a-team-in-NVivo#01EWWB8JVBCMP3KDRAJWZRSA0T)
 * [Delve's Guide to Collaborative Qualitative Analysis](https://delvetool.com/blog/collaborative-qualitative-analysis)
 * [Delve's Guide to Intercoder Reliability](https://delvetool.com/blog/intercoder)
 
-Also, visit our [Getting Started](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) page for more information, tutorials, and workshops on NVivo!
+Also, visit our [Getting Started Guide](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) for more information, tutorials, and workshops on NVivo!
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
